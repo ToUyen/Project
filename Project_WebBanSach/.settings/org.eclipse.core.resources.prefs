@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/DangKy.jsp=UTF-8
+encoding//WebContent/DangNhap.jsp=UTF-8
+encoding//WebContent/DangNhapThanhCong.jsp=UTF-8
+encoding//WebContent/GioHang.jsp=UTF-8
+encoding//WebContent/admin/DSSach.jsp=UTF-8
+encoding//src/LoginLogout/Login.java=UTF-8
+encoding//src/LoginLogout/XuLyDangKy.java=UTF-8
+encoding//src/connection/ConnectionDB.java=UTF-8
+encoding//src/mail/Mail.java=UTF-8
+encoding/<project>=UTF-8
