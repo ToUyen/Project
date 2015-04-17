@@ -1,0 +1,35 @@
+.contents .center {
+	height: auto;
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: -20px;
+}
+.contents .center #gt {
+	width: 100%;
+	height:auto;
+	overflow: auto;
+}
+.contents .center #gt .imggt {
+	float: left;
+	clear: right;
+	height: 250px;
+	width: 23%;
+	margin-left: 28px;
+	margin-top: 29px;
+	margin-bottom:20px;
+}
+.metro .contents .center #gt .itempg {
+
+	float: right;
+	height: 250px;
+	width: 73%;
+	margin-right: 19px;
+	margin-top: 10px;
+}
+.metro .contents .center #gt .itempg .pg {
+	font-family: "Times New Roman";
+	font-size: 18px;
+	color: #FFF;
+	margin-top: 46px;
+}

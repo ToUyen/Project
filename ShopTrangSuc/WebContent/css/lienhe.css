@@ -1,0 +1,75 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#clear{
+	clear:both
+}
+.left{
+	width:30%;
+	margin:25px 0px 0px 35px;
+	padding:10px ;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	background:url(../images/back.gif) center right no-repeat;
+	color:#FFF;
+}
+.left .left_top{
+	margin:5px;
+}
+.left div{
+	/*margin:5px 0px 0px 25px;
+	padding:5px;*/
+}
+.left .left_buttom{
+	margin:5px;
+}
+.left .left_buttom #map{
+	position: absolute;
+	width: 330px;
+	height: 198px;
+	margin-left: -63px;
+}
+.right{
+	width:60%;
+	margin:25px 5px 0px 15px;
+	padding:10px ;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	float:right;
+	color:#FFF;
+}
+.right #form{
+	margin: 25px 5px;
+}
+.center #form form .ykien {
+	height: auto;
+	margin:0px 0px 0px 55px;
+}
+.center #form form .ykien .title,  {
+	font-family: "Times New Roman";
+	font-size: 24px;
+	color: #000;
+}
+.center #form form .ykien tr td {
+	width: 120px;
+	height: 47px;
+}
+
+.center #form form .ykien .input-control_textarea .noidung {
+	height: 100px;
+	width: 95%;
+}
+.center #form form .ykien tr td .large {
+	background-color: #9FBCE8;
+	height: 44px;
+	width: 120px;
+	margin-left: 414px;
+	margin-top: 15px;
+}
+.contents .center .left .left_buttom #map #div_id {
+	height: 299px;
+	width: 422px;
+	margin-top: 28px;
+}

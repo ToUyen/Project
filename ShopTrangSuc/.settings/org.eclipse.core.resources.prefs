@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/home.jsp=UTF-8
+encoding//WebContent/trangchu.jsp=UTF-8
+encoding//src/dao/KhachHangDao.java=UTF-8
+encoding//src/dao/TaiKhoanDao.java=UTF-8
+encoding//src/database/Connec.java=UTF-8
+encoding//src/database/ConnectionDB.java=UTF-8
+encoding//src/servlet/XuLyDangKyTK.java=UTF-8
+encoding//src/servlet/XuLyDangNhap.java=UTF-8
